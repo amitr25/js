@@ -12,4 +12,6 @@ else if (a>18 & a<25){
 else{
     alert ("your age is valid");
 }
+//ternary operators
+console.log("you can",(a<18 ?"not drive":"drive"))
 
